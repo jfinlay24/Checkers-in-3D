@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9882fb162892e77439406c13ed08b937
+timeCreated: 1498588979
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - whitePiecePrefab: {fileID: 1055487359223956, guid: d8d78f1dbbdc68b4e93e9c35669a5155,
+      type: 2}
+  - blackPiecePrefab: {fileID: 1766088633072698, guid: 89781168dc913454c8fd7c853111683b,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
